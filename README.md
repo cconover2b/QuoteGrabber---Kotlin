@@ -6,7 +6,7 @@ I wrote this QuoteGrabber  program to grab a quote from an API. I used a simple 
 
 [https://run.mocky.io/v3/b2772cea-c31a-4630-836c-a4c9853d6132](https://run.mocky.io/v3/b2772cea-c31a-4630-836c-a4c9853d6132)
 
-[Software Demo Video](https://youtu.be/dJ2YFXfvAls)
+[Software Demo Video](https://www.youtube.com/watch?v=1VJKAOR0cvU)
 
 ## **Development Environment**
 
